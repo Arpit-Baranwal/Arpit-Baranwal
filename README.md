@@ -10,7 +10,7 @@
 
 ### 🔭 About me
 - 📍 Based in Freiburg, Germany
-- 🧠 I build **uncertainty-aware ML** and **probabilistic systems** — anomaly detection, predictive modeling, statistical analysis
+- 🧠 I build **uncertainty-aware ML** and **probabilistic systems**  anomaly detection, predictive modeling, statistical analysis
 - ☁️ Comfortable taking models from notebook to **cloud deployment**
 - 🌱 Currently exploring transformers & model predictive control
 
