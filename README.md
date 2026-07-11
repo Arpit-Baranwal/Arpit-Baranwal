@@ -9,8 +9,8 @@
 
 ### 🔭 About me
 - 📍 Based in Freiburg, Germany
-- 🧠 I build **uncertainty-aware ML** and **probabilistic systems** — anomaly detection, predictive modeling, statistical analysis
-- 🔍 I design and ship **RAG applications** — retrieval pipelines, semantic chunking, re-ranking, and vector search with FastAPI + ChromaDB
+- 🧠 I build **uncertainty-aware ML** and **probabilistic systems** : anomaly detection, predictive modeling, statistical analysis
+- 🔍 I design and ship **RAG applications** : retrieval pipelines, semantic chunking, re-ranking, and vector search with FastAPI + ChromaDB
 - 🤖 Working across **RAG**, **LLM security & evaluation**, and **computer vision**
 - 🏗️ Hands-on with **model pre-training** and **transformer** architectures
 - ☁️ Comfortable taking models from notebook to **cloud deployment**
